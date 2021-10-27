@@ -92,17 +92,6 @@ export default {
   background-color: tomato;
 }
 
-.add-to-cart-button::before {
-  content: "<AddToCart />";
-  position: absolute;
-  top: -24px;
-  text-transform: capitalize;
-  font-size: 0.9rem;
-  left: 0;
-  font-weight: bold;
-  color: #000;
-}
-
 img {
   width: 100%;
 }
