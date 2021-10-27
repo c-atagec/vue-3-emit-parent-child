@@ -1,4 +1,4 @@
-# t
+# vue-3-emit-parent-child
 
 ## Project setup
 ```
